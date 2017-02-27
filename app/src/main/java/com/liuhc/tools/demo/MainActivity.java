@@ -21,4 +21,7 @@ public class MainActivity extends AppCompatActivity {
     public void one(){
 
     }
+    public void two(){
+
+    }
 }
