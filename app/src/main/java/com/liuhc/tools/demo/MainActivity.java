@@ -17,4 +17,17 @@ public class MainActivity extends AppCompatActivity {
         String date = DateFormatHelper.getCurrentTime(DateFormatHelper.FORMAT_SECOND);
 //        Toast.makeText(this, date, Toast.LENGTH_SHORT).show();
     }
+
+    public void one(){
+
+    }
+    public void two(){
+
+    }
+    public void three(){
+
+    }
+    public void four(){
+
+    }
 }
