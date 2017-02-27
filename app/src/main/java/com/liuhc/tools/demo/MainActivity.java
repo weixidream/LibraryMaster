@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String date = DateFormatHelper.getCurrentTime(DateFormatHelper.FORMAT_SECOND);
-        Toast.makeText(this, date, Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, date, Toast.LENGTH_SHORT).show();
     }
 }
